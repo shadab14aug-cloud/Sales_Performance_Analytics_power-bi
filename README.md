@@ -54,3 +54,15 @@ The layout is optimized for decision-makers to extract **Actionable Insights** i
 
 ---
 *Developed with a focus on Corporate Data Standards, Data Modeling Integrity, and Executive-Level Storytelling.*
+
+<img width="1142" height="644" alt="MAHI KHAN" src="https://github.com/user-attachments/assets/6f859a4f-f028-4ae8-a6ff-cee8ebe7fcaa" />
+
+<img width="967" height="610" alt="TODAY STAR SCHEMA " src="https://github.com/user-attachments/assets/25b28fd1-f312-4ece-a723-27e8ec65f6b1" />
+
+
+
+
+
+
+
+
